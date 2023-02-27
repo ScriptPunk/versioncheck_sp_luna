@@ -10,5 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Added Config.EsxVersion to `editable\config\shared.lua` to support both new and old versions of ESX
 - Added ESX initialization logic to `editable\scripts\shared.lua` for additional configuration if you have changed the core ESX getSharedObject() method name.
-- Added the `spdebug` command for the server terminal and the in-game console to help with debugging installation issues.
+- Added the `sp_luna_debug` command for the server terminal and the in-game console to help with debugging installation issues.
 - Added automatic version checks
